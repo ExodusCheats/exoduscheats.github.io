@@ -106,4 +106,4 @@ This error is caused by the following:
 ## Malformed Response
 This Error occurs when the hosting provider for Exodus has outages or problems. There's nothing we or you can do about it.
 
-You can always head to our [Discord Server](https://discord.gg/gbk5SrVzAR) and check [#announcements](https://discord.com/channels/1002356633856389230/1002391310600257609).
+You can always head to our [Discord Server](https://discord.gg/YVWGTt87E8) and check [#announcements](https://discord.com/channels/1035943230467997836/1037813684774391808).
