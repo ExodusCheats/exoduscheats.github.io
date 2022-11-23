@@ -1,0 +1,44 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color: #202225;
+		color: #ffffff;
+	}
+	
+	.main-content code {
+		background-color: #343941;
+		color: lightgray;
+	}
+	
+	.highlight {
+		background-color: #202225;
+	}
+	
+	.main-content pre.highlight {
+		background-color: #161b22;
+		border-radius: 6px;
+		border: 0px;
+	}
+	
+	.main-content pre > code {
+		background-color: #161b22;
+		border-radius: 6px;
+		border: 0px;
+	}
+	
+	.main-content blockquote {
+		border-left: 0.3rem solid #30363d;
+	}
+	
+	.main-content hr {
+		background-color: #34373e;
+	}
+	
+	.site-footer {
+		border-top: solid 1px #34373e;
+	}
+}
