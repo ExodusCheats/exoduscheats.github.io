@@ -38,8 +38,8 @@ Please close the following programs while running Exodus:
 
 ## Invalid field(s)
 This error is caused by the following:
-1) Your Email is wrong.
-2) Your Password is wrong.
+1. Your Email is wrong.
+2. Your Password is wrong.
 
 To fix this, simply follow this path:
 1. Go to `C:\Users\YourUser\AppData\Roaming\Exodus Client` or press `win + r` and type `AppData\Roaming\Exodus Client`.
