@@ -3,6 +3,7 @@ title: Exodus RDR2 Changelogs
 ---
 ### [Home](../index.md) / Changelogs
 ---
+- [v1.014](Changelogs/v1.014.md)
 - [v1.013](Changelogs/v1.013.md)
 - v1.012 (No Changelog)
 - [v1.011](Changelogs/v1.011.md)
