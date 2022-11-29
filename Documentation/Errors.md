@@ -18,6 +18,7 @@ Exodus RDR2 errors and how to fix them.
 - [Missing Required Data](#missing-required-data)
 - [Local Ownership Failed](#local-ownership-failed)
 - [Malformed Response](#malformed-response)
+- [Failed to Select GPU](#failed-to-select-gpu)
 
 ## Bad Client HWID
 1. Go to [your Exodus account](https://exodusmenu.com/account).
@@ -107,3 +108,6 @@ This error is caused by the following:
 This Error occurs when the hosting provider for Exodus has outages or problems. There's nothing we or you can do about it.
 
 You can always head to our [Discord Server](https://discord.gg/YVWGTt87E8) and check [#announcements](https://discord.com/channels/1035943230467997836/1037813684774391808).
+
+## Failed to Select GPU
+Simply change your (in-game) Graphics API.
