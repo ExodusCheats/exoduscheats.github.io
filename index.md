@@ -1,7 +1,7 @@
 ---
 title: Exodus Documentation
 ---
-### Language: English | [Chinese](Translation/CN)
+### English | [Chinese](Translation/CN)
 ---
 <!--
 ## [Exodus RDR2 Feature List](Documentation/FeatureList.md)
