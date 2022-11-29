@@ -1,7 +1,7 @@
 ---
 title: Exodus作弊文档
 permalink: /CN/
-footer: 原始文档是由Exodus的不和谐员工Ruddle Bear制作。 文档翻译由Exodus的中国员工Shark鲨鱼制作。 [回到顶部?](#content)
+layout: cn
 ---
 
 ## [Exodus RDR2常见问题](Documentation/FAQ.md)
