@@ -1,5 +1,6 @@
 ---
 title: Exodus RDR2 Issues
+permalink: /Issues
 ---
 ### [Home](../index.md) / Issues
 ---
