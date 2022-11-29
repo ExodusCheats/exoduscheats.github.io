@@ -3,7 +3,8 @@ title: Exodus作弊文档
 permalink: /CN/
 layout: cn
 ---
-
+### [English]() | Chinese
+---
 ## [Exodus RDR2常见问题](Documentation/FAQ.md)
 关于《Exodus》RDR2的常问问题。
 
