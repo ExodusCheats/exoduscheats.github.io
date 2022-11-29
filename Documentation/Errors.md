@@ -1,5 +1,6 @@
 ---
 title: Exodus RDR2 Errors
+permalink: /Errors
 ---
 ### [Home](../index.md) / Errors
 ---
