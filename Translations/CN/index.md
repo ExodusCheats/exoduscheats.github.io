@@ -1,6 +1,6 @@
 ---
 title: Exodus作弊文档
-permalink: /CN/
+permalink: /CN
 layout: cn
 ---
 
