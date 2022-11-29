@@ -1,5 +1,6 @@
 ---
 title: Exodus RDR2 Changelogs
+permalink: /Changelogs
 ---
 ### [Home](../index.md) / Changelogs
 ---
