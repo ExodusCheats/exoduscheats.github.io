@@ -21,7 +21,7 @@ Frequently asked questions and their answers.
 7. Start Red Dead Redemption 2.
 8. Select Freemode in the Online Main Menu.
 9. After 10 seconds, select `RDR2.exe` as process in the Xenos Injector and click Inject.
-10. Wait till a console window opens telling you to place your account information into "Credentials.json". 
+10. Wait until a console window opens asking you to enter your account information in “Credentials".json".
 11. The client folder should be opened automatically, if not, either go to `C:\Users\YourUser\AppData\Roaming\Exodus Client` or press `win + r` and enter `AppData\Roaming\Exodus Client`.
 12. Open `Credentials.json` with Notepad or a text editor of your choice and fill in your account information:
 ```json
