@@ -20,9 +20,7 @@ Frequently asked questions and their answers.
 6. Open the 64-bit Xenos injector (`Xenos64.exe`) and add the downloaded Exodus DLL to it.
     <details>
       <summary>Screenshots</summary>
-    
-      ![Xenos64](../assets/img/Xenos64_1.png) ![Xenos64](../assets/img/Xenos64_2.png) ![Xenos64](../assets/img/Xenos64_3.png) 
-    
+      <img src="../assets/img/Xenos64_1.png"><img src="../assets/img/Xenos64_2.png"><img src="../assets/img/Xenos64_3.png">
     </details>
 7. Start Red Dead Redemption 2.
 8. Select Freemode in the Online Main Menu.
@@ -30,16 +28,12 @@ Frequently asked questions and their answers.
 10. Wait until a console window opens asking you to enter your account information in "Credentials.json".
     <details>
       <summary>Screenshot</summary>
-    
-      ![Exodus Console](../assets/img/RDR2.png)
-    
+      <img src="../assets/img/RDR2.png">
     </details>
 11. The client folder should be opened automatically, if not, either go to `C:\Users\YourUser\AppData\Roaming\Exodus Client` or press `win + r` and enter `AppData\Roaming\Exodus Client`.
     <details>
       <summary>Screenshot</summary>
-    
-      ![Exodus Client Folder](../assets/img/explorer.png)
-    
+      <img src="../assets/img/explorer.png">
     </details>
 12. Open `Credentials.json` with Notepad or a text editor of your choice and fill in your account information:
 ```json
@@ -49,12 +43,9 @@ Frequently asked questions and their answers.
 }
 ```
 Replace `youremail@email.com` with the email address you used to sign up to Exodus and `yourpassword` with your Exodus password.
-    
 <details>
     <summary>Screenshots</summary>
-    
-    ![Credentials.json](../assets/img/notepad_1.png) ![Credentials.json](../assets/img/notepad_2.png)
-    
+   <img src="../assets/img/notepad_1.png"><img src="../assets/img/notepad_2.png">
 </details>
 
 13. Save the changes you just made by pressing `Ctrl+S`.
