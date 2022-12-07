@@ -19,7 +19,7 @@ Frequently asked questions and their answers.
 5. Add an exclusion for the Xenos folder/Xenos64.exe and the Exodus DLL to [Windows Security](https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26) or other Anti-Virus software.
 6. Open the 64-bit Xenos injector (`Xenos64.exe`) and add the downloaded Exodus DLL to it.
     <details>
-      <summary href="">• Screenshots (click me!)</summary>
+      <summary style="color: #0000EE;" onmouseover='this.style.textDecoration="underline"' onmouseout='this.style.textDecoration="none"'>• Screenshots (click me!)</summary>
       <img src="../assets/img/Xenos64_1.png"><img src="../assets/img/Xenos64_2.png"><img src="../assets/img/Xenos64_3.png">
     </details>
 7. Start Red Dead Redemption 2.
