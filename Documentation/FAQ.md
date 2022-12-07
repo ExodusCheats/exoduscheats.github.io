@@ -18,7 +18,7 @@ Frequently asked questions and their answers.
 4. Extract Xenos from `Xenos_2.3.2.7z` using a free file archiver like [7-Zip](https://www.7-zip.org/download.html) or [WinRAR](https://www.rarlab.com/download.htm).
 5. Add an exclusion for the Xenos folder/Xenos64.exe and the Exodus DLL to [Windows Security](https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26) or other Anti-Virus software.
 6. Open the 64-bit Xenos injector (`Xenos64.exe`) and add the downloaded Exodus DLL to it.
-    <details>
+  - <details>
       <summary>Screenshots</summary>
       <img src="../assets/img/Xenos64_1.png"><img src="../assets/img/Xenos64_2.png"><img src="../assets/img/Xenos64_3.png">
     </details>
