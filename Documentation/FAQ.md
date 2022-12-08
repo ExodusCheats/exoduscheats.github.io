@@ -19,12 +19,16 @@ Frequently asked questions and their answers.
 5. Add an exclusion for the Xenos folder/Xenos64.exe and the Exodus DLL to [Windows Security](https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26) or other Anti-Virus software.
 6. Open the 64-bit Xenos injector (`Xenos64.exe`) and add the downloaded Exodus DLL to it.
     <details>
-      <summary style="color: #1e6bb8;" onmouseover='this.style.textDecoration="underline"' onmouseout='this.style.textDecoration="none"'>Screenshots [CLICK ME!]</summary>
-      <img src="../assets/img/Xenos64_1.png"><img src="../assets/img/Xenos64_2.png"><img src="../assets/img/Xenos64_3.png">
+      <summary style="color: #1e6bb8;" onmouseover='this.style.textDecoration="underline"' onmouseout='this.style.textDecoration="none"'>Screenshot [CLICK ME!]</summary>
+      <img src="../assets/img/Xenos64_1.png">
     </details>
 7. Start Red Dead Redemption 2.
 8. Select Freemode in the Online Main Menu.
 9. After 10 seconds, select `RDR2.exe` as process in the Xenos Injector and click Inject.
+    <details>
+      <summary style="color: #1e6bb8;" onmouseover='this.style.textDecoration="underline"' onmouseout='this.style.textDecoration="none"'>Screenshots [CLICK ME!]</summary>
+      <img src="../assets/img/Xenos64_2.png"><img src="../assets/img/Xenos64_3.png">
+    </details>
 10. Wait until a console window opens asking you to enter your account information in "Credentials.json".
     <details>
       <summary style="color: #1e6bb8;" onmouseover='this.style.textDecoration="underline"' onmouseout='this.style.textDecoration="none"'>Screenshot [CLICK ME!]</summary>
