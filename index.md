@@ -7,7 +7,7 @@ title: Exodus Documentation
 ## [Exodus RDR2 Feature List](Documentation/FeatureList.md)
 A complete list of all current Exodus RDR2 features.
 -->
-## [Getting Started](Documentation/GettingStarted.md)
+## [Exodus RDR2 - Getting Started](Documentation/GettingStarted.md)
 Getting started with Exodus RDR2.
 
 ## [Exodus RDR2 FAQ](Documentation/FAQ.md)
