@@ -5,7 +5,7 @@ permalink: /GettingStarted
 ### [Home](../index.md) / Getting Started
 ---
 ## Getting started with Exodus RDR2
-1. Make sure you have [redeemed your license](#how-and-where-do-i-redeem-my-license).
+1. Make sure you have [redeemed your license](FAQ.md#how-and-where-do-i-redeem-my-license).
     1. Go to the [Exodus Store](https://exodusmenu.com/store).
     2. Press on either [Red Dead Online Mod Menu](https://exodusmenu.com/store/red-dead-online/rdr-online-mod-menu/view) or [Red Dead Online Mod Menu Lite](https://exodusmenu.com/store/red-dead-online/rdr-online-mod-menu-lite/view).
     3. Press `Use License`.
