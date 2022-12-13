@@ -31,7 +31,8 @@ permalink: /GettingStarted
     "p": "yourpassword"
 }
 ```
+![Windows Notepad](../assets/img/notepad_1.png)
 Replace `youremail@email.com` with the email address you used to sign up to Exodus and `yourpassword` with your Exodus password.
-![Windows Notepad](../assets/img/notepad_1.png)![Windows Notepad](../assets/img/notepad_2.png)
+![Windows Notepad](../assets/img/notepad_2.png)
 13. Save the changes you just made by pressing `Ctrl+S`.
 14. Done. All you have to do now is inject again.
