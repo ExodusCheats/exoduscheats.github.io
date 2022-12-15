@@ -4,6 +4,7 @@ permalink: /Changelogs
 ---
 ### [Home](../index.md) / Changelogs
 ---
+- v1.020 (No Changelog)
 - [v1.019](Changelogs/1019)
 - v1.018 (No Changelog)
 - v1.017 (No Changelog)
