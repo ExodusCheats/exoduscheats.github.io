@@ -43,7 +43,7 @@ This error is caused by the following:
 1. Your Email is wrong.
 2. Your Password is wrong.
 
-To fix this, simply follow this path:
+To fix this, simply follow these steps:
 1. Go to `C:\Users\YourUser\AppData\Roaming\Exodus Client` or press `win + r` and enter `AppData\Roaming\Exodus Client`.
 2. Open `Credentials.json` with Notepad or a text editor of your choice and fill in your account information:
 ```json
