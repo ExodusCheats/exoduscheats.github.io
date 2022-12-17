@@ -6,7 +6,7 @@ permalink: /FeatureList
 ---
 A complete list of all current Exodus RDR2 [v1.021](Changelogs/1019) features.
 
-## [Exodus RDR2 Feature List](/Full)
+## [Exodus RDR2 Feature List](Feature List/Full)
 - [Player](Feature List/Full/Player)
 - [Network](Feature List/Full/Network)
 - [Recovery](Feature List/Full/Recovery)
@@ -19,7 +19,7 @@ A complete list of all current Exodus RDR2 [v1.021](Changelogs/1019) features.
 - [Visuals](Feature List/Full/Visuals)
 - [Settings](Feature List/Full/Settings)
 
-## [Exodus RDR2 Lite Feature List](/Lite)
+## [Exodus RDR2 Lite Feature List](Feature List/Lite)
 - [Player](Feature List/Lite/Player)
 - [Network](Feature List/Lite/Network)
 - [Recovery](Feature List/Lite/Recovery)
