@@ -1,6 +1,6 @@
 ---
 title: Getting Started with Exodus RDR2
-permalink: /GettingStarted
+permalink: /Guide
 ---
 ### [Home](../index.md) / Getting Started
 ---
