@@ -27,7 +27,7 @@ A complete list of all current Exodus RDR2 [v1.021](Changelogs/1019) features.
 
 [Visuals](Feature List/Visuals.md)
 
-[Settings](Full/Settings)
+[Settings](Feature List/Full/Settings)
 
 ## Exodus RDR2 Lite Feature List
 [Player](Feature List/Player.md)
