@@ -10,7 +10,7 @@ permalink: /Features/Full/Settings
 - ... 
 - *(Many customization options)*
 
-## Debug Info [Submenu]
+## Debug Info [submenu]
 - Local Time
 - Local Date  
 - Product Name
@@ -20,7 +20,7 @@ permalink: /Features/Full/Settings
 - Frames Per Second
 - Active Resolution
 - Script Host
----
+
 - Show Watermark
 - Show Nav Counter
 - Show Nav Indictor
