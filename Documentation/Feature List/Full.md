@@ -6,13 +6,23 @@ permalink: /Feature List/Full
 ---
 
 [Player](Full/Player)
+
 [Network](Full/Network)
+
 [Recovery](Full/Recovery)
+
 [Weapons](Full/Weapons)
-[Teleport](Full/Teleport) 
+
+[Teleport](Full/Teleport)
+
 [Spawner](Full/Spawner)
+
 [Creator](Full/Creator)
+
 [World](Full/World)
+
 [Misc](Full/Misc)
+
 [Visuals](Full/Visuals)
+
 [Settings](Full/Settings)
