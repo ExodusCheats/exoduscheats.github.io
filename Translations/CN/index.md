@@ -5,7 +5,7 @@ layout: cn
 ---
 ### [English](../../) | Chinese
 ---
-## [Exodus RDR2常见问题](Documentation/FAQ.md)
+## [Exodus RDR2常见问题](CN/FAQ)
 关于《Exodus》RDR2的常问问题。
 
 ## Exodus RDR2的错误和问题
