@@ -52,8 +52,8 @@ permalink: /Getting Started
 12. Open `Credentials.json` with Notepad or a text editor of your choice and fill in your account information:
 ```json
 {
-    "e": "youremail@email.com",
-    "p": "yourpassword"
+    "e": "your email here",
+    "p": "your password here"
 }
 ```
 ![Windows Notepad](../assets/img/notepad_1.png)
