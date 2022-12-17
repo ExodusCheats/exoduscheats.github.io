@@ -1,6 +1,6 @@
 ---
 title: Exodus RDR2 Lite Feature List
-permalink: /FeatureList/Lite
+permalink: /Feature List/Lite
 ---
 ### [Home](../../index.md) / [Feature List](/FeatureList) / Lite
 ---
