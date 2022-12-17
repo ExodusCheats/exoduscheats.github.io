@@ -15,4 +15,4 @@ permalink: /Feature List/Full
 ### [World](Feature List/Full/World)
 ### [Misc](Feature List/Full/Misc)
 ### [Visuals](Feature List/Full/Visuals)
-### [Settings](Feature List/Full/Settings)
+### [Settings](Full/Settings)
