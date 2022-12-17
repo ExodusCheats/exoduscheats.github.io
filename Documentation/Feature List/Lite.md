@@ -2,7 +2,7 @@
 title: Exodus RDR2 Lite Feature List
 permalink: /Feature List/Lite
 ---
-### [Home](../../index.md) / [Feature List](/FeatureList) / Lite
+### [Home](../../index.md) / [Feature List](/Feature List) / Lite
 ---
 [Player](Lite/Player)
 
