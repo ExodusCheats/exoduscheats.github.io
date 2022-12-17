@@ -4,8 +4,8 @@ permalink: /Features/Full/Settings
 ---
 ### [Home](../../../index.md) / [Feature List](/Features) / [Full](/Features/Full) / Settings
 ---
-- ### [Theme [submenu]](Settings/Theme)
-- ### [Debug Info [submenu]](Settings/DebugInfo)
+- ### [Theme](Settings/Theme) [submenu]
+- ### [Debug Info](Settings/DebugInfo) [submenu]
 - ### Show Watermark
 - ### Show Nav Counter
 - ### Show Nav Indictor
