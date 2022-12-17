@@ -3,11 +3,7 @@ title: Exodus Documentation
 ---
 ### English | [Chinese](/CN/)
 ---
-<!--
-## [Exodus RDR2 Feature List](/FeatureList)
-A complete list of all current Exodus RDR2 features.
--->
-## [Exodus RDR2 - Getting Started](/GettingStarted)
+## [Exodus RDR2 - Getting Started](/Guide)
 Getting started with Exodus RDR2.
 
 ## [Exodus RDR2 FAQ](/FAQ)
@@ -20,3 +16,6 @@ Exodus RDR2 errors & issues and how to fix them.
 
 ## [Exodus RDR2 Changelogs](/Changelogs)
 Exodus RDR2 changelogs.
+
+## [Exodus RDR2 Feature List](/Features)
+A complete list of all current Exodus RDR2 features.
