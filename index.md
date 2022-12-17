@@ -4,10 +4,10 @@ title: Exodus Documentation
 ### English | [Chinese](/CN/)
 ---
 <!--
-## [Exodus RDR2 Feature List](Documentation/FeatureList.md)
+## [Exodus RDR2 Feature List](/FeatureList)
 A complete list of all current Exodus RDR2 features.
 -->
-## [Exodus RDR2 - Getting Started](/Getting Started)
+## [Exodus RDR2 - Getting Started](/GettingStarted)
 Getting started with Exodus RDR2.
 
 ## [Exodus RDR2 FAQ](/FAQ)
