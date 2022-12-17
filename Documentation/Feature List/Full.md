@@ -1,6 +1,6 @@
 ---
 title: Exodus RDR2 Feature List
-permalink: /Feature List/Full
+permalink: /Features/Full
 ---
 ### [Home](../../index.md) / [Feature List](/Features) / Full
 ---
