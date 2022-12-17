@@ -17,5 +17,5 @@ Exodus RDR2 errors & issues and how to fix them.
 ## [Exodus RDR2 Changelogs](/Changelogs)
 Exodus RDR2 changelogs.
 
-## [Exodus RDR2 Feature List](/Features)
+## [Exodus RDR2 Feature List]() [soon]
 A complete list of all current Exodus RDR2 features.
