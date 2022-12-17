@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Settings
+title: Exodus RDR2 Feature List
 permalink: /Feature List/Full
 ---
 ### [Home](../../index.md) / [Feature List](../FeatureList.md) / Full
