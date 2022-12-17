@@ -48,11 +48,11 @@ To fix this, simply follow these steps:
 2. Open `Credentials.json` with Notepad or a text editor of your choice and fill in your account information:
 ```json
 {
-    "e": "youremail@email.com",
-    "p": "yourpassword"
+    "e": "your email here",
+    "p": "your password here"
 }
 ```
-Replace `youremail@email.com` with the email address you used to sign up to Exodus and `yourpassword` with your Exodus password.
+Replace `your email here` with the email address you used to sign up to Exodus and `your password here` with your Exodus password.
 
 3. Save the changes you just made by pressing `Ctrl+S`.
 4. Done. All you have to do now is inject again.
