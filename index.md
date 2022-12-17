@@ -7,16 +7,16 @@ title: Exodus Documentation
 ## [Exodus RDR2 Feature List](Documentation/FeatureList.md)
 A complete list of all current Exodus RDR2 features.
 -->
-## [Exodus RDR2 - Getting Started](Documentation/GettingStarted.md)
+## [Exodus RDR2 - Getting Started](/Getting Started)
 Getting started with Exodus RDR2.
 
-## [Exodus RDR2 FAQ](Documentation/FAQ.md)
+## [Exodus RDR2 FAQ](/FAQ)
 Frequently asked questions about Exodus RDR2.
 
-## Exodus RDR2 [Errors](Documentation/Errors.md) & [Issues](Documentation/Issues.md)
+## Exodus RDR2 [Errors](/Errors) & [Issues](/Issues)
 Exodus RDR2 errors & issues and how to fix them.
-- ### [Errors](Documentation/Errors.md)
-- ### [Issues](Documentation/Issues.md)
+- ### [Errors](/Errors)
+- ### [Issues](/Issues)
 
-## [Exodus RDR2 Changelogs](Documentation/Changelogs.md)
+## [Exodus RDR2 Changelogs](/Changelogs)
 Exodus RDR2 changelogs.
