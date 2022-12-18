@@ -2,7 +2,7 @@
 title: Exodus RDR2 Changelogs
 permalink: /Changelogs
 ---
-### [Home](../index.md) / Changelogs
+### [Home](/) / Changelogs
 ---
 - v1.021 (No Changelog)
 - v1.020 (No Changelog)
