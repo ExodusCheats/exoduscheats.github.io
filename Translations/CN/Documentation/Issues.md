@@ -3,7 +3,7 @@ title: Exodus RDR2问题
 permalink: /CN/Issues
 layout: cn
 ---
-### [首页](../index.md) / 问题
+### [首页](/CN) / 问题
 ---
 Exodus RDR2 的问题以及如何解决这些问题.
 - [我不能加入朋友/朋友不能加入我](#我不能加入朋友/朋友不能加入我)
