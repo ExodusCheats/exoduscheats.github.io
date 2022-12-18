@@ -2,7 +2,7 @@
 title: Getting Started with Exodus RDR2
 permalink: /Guide
 ---
-### [Home](../index.md) / Getting Started
+### [Home](/) / Getting Started
 ---
 ## Getting started with Exodus RDR2
 1. Make sure you have [redeemed your license](FAQ.md#how-and-where-do-i-redeem-my-license).
