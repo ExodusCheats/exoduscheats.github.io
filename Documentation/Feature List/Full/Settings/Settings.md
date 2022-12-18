@@ -2,7 +2,7 @@
 title: Exodus RDR2 Settings
 permalink: /Features/Full/Settings
 ---
-### [Home](../../../index.md) / [Feature List](/Features) / [Full](/Features/Full) / Settings
+### [Home](/) / [Feature List](/Features) / [Full](/Features/Full) / Settings
 ---
 - ### [Theme](Settings/Theme) [submenu]
 - ### [Debug Info](Settings/DebugInfo) [submenu]
