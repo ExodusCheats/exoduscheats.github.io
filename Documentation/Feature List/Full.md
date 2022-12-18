@@ -2,7 +2,7 @@
 title: Exodus RDR2 Feature List
 permalink: /Features/Full
 ---
-### [Home](../../index.md) / [Feature List](/Features) / Full
+### [Home](/) / [Feature List](/Features) / Full
 ---
 [Player](Full/Player)
 
