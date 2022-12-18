@@ -2,7 +2,7 @@
 title: Exodus RDR2 Errors
 permalink: /Errors
 ---
-### [Home](../index.md) / Errors
+### [Home](/) / Errors
 ---
 Exodus RDR2 errors and how to fix them.
 - [Bad Client HWID](#bad-client-hwid)
