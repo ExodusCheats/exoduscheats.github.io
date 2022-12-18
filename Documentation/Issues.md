@@ -2,7 +2,7 @@
 title: Exodus RDR2 Issues
 permalink: /Issues
 ---
-### [Home](../index.md) / Issues
+### [Home](/) / Issues
 ---
 Exodus RDR2 issues and how to fix them.
 - [I can't join friends/friends can't join me](#i-cant-join-friendsfriends-cant-join-me)
