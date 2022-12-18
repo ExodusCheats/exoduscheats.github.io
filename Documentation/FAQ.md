@@ -2,7 +2,7 @@
 title: Exodus RDR2 FAQ
 permalink: /FAQ
 ---
-### [Home](../index.md) / FAQ
+### [Home](/) / FAQ
 ---
 Frequently asked questions and their answers.
 - [How do I inject Exodus RDR2?](#how-do-i-inject-exodus-rdr2)
