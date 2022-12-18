@@ -3,7 +3,7 @@ title: Exodus RDR2的错误
 permalink: /CN/Errors
 layout: cn
 ---
-### [首页](../index.md) / 错误
+### [首页](/CN) / 错误
 ---
 Exodus RDR2的错误以及如何修复它们
 - [Bad Client HWID](#bad-client-hwid)
