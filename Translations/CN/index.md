@@ -1,17 +1,17 @@
 ---
 title: Exodus作弊文档
-permalink: /CN/
+permalink: /cn/
 layout: cn
 ---
 ### [English](/) | Chinese
 ---
-## [Exodus RDR2常见问题](/CN/FAQ)
+## [Exodus RDR2常见问题](/cn/faq)
 关于《Exodus》RDR2的常问问题。
 
 ## Exodus RDR2的错误和问题
 Exodus RDR2的错误和问题以及如何解决它们。
-- ### [错误](/CN/Errors)
-- ### [问题](/CN/Issues)
+- ### [错误](/cn/errors)
+- ### [问题](/cn/issues)
 
-## [Exodus RDR2更新日志](/Changelogs)
+## [Exodus RDR2更新日志](/changelogs)
 Exodus RDR2的更新日志。
