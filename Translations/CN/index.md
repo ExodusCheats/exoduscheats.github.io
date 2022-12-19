@@ -1,6 +1,6 @@
 ---
 title: Exodus作弊文档
-permalink: /cn/
+permalink: /cn
 layout: cn
 ---
 ### [English](/) | Chinese
