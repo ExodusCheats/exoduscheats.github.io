@@ -6,6 +6,6 @@ permalink: /features/full/visuals/line
 ---
 - ### Show Enemies | Top / Center / Bottom
 - ### Show Friendlies | Top / Center / Bottom
-### ---- Configuration ----
+### ------ Configuration ------
 - ### Thickness
 - ### Range
