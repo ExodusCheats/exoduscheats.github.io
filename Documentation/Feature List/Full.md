@@ -1,27 +1,27 @@
 ---
 title: Exodus RDR2 Feature List
-permalink: /Features/Full
+permalink: /features/full
 ---
-### [Home](/) / [Feature List](/Features) / Full
+### [Home](/) / [Feature List](/features) / Full
 ---
-[Player](Full/Player)
+[Player](ffll/player)
 
-[Network](Full/Network)
+[Network](full/petwork)
 
-[Recovery](Full/Recovery)
+[Recovery](full/recovery)
 
-[Weapons](Full/Weapons)
+[Weapons](full/weapons)
 
-[Teleport](Full/Teleport)
+[Teleport](full/teleport)
 
-[Spawner](Full/Spawner)
+[Spawner](full/spawner)
 
-[Creator](Full/Creator)
+[Creator](full/creator)
 
-[World](Full/World)
+[World](full/world)
 
-[Misc](Full/Misc)
+[Misc](full/misc)
 
-[Visuals](Full/Visuals)
+[Visuals](full/visuals)
 
-[Settings](Full/Settings)
+[Settings](full/settings)
