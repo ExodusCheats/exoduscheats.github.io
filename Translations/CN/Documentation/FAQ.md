@@ -3,7 +3,7 @@ title: Exodus RDR2常见问题
 permalink: /cn/faq
 layout: cn
 ---
-### [首页](/CN) / 常见问题
+### [首页](/cn) / 常见问题
 ---
 常见问题及其答案
 - [我如何注入Exodus RDR2？](#我如何注入exodus-rdr2)
