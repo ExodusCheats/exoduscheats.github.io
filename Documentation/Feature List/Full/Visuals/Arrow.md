@@ -5,7 +5,7 @@ permalink: /features/full/visuals/arrow
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Visuals](/features/full/visuals) / Arrow
 ---
 - ### `Show Enemies` 
-- ### `Show Friendlie`
+- ### `Show Friendlies`
 ### --- Configuration ---
 - ### `Radius`
 - ### `Range`
