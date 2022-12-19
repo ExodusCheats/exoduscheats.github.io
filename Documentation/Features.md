@@ -1,10 +1,10 @@
 ---
 title: Exodus RDR2 Feature List
-permalink: /Features
+permalink: /features
 ---
 ### [Home](/) / Feature List
 ---
-A complete list of all current Exodus RDR2 [v1.021](Changelogs/1019) features.
+A complete list of all current Exodus RDR2 [v1.021](changelogs/1019) features.
 
-- [Exodus RDR2 Feature List](Features/Full)
-- [Exodus RDR2 Lite Feature List](Features/Lite)
+- [Exodus RDR2 Feature List](features/full)
+- [Exodus RDR2 Lite Feature List](features/lite)
