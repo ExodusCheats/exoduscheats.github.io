@@ -5,7 +5,7 @@ permalink: /features/full/visuals/info
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Visuals](/features/full/visuals) / Info
 ---
 - ### `Show Enemies` 
-- ### `Show Friendlie`
+- ### `Show Friendlies`
 ### --- Configuration ---
 - ### `Show Icon`
 - ### `Seperator Height`
