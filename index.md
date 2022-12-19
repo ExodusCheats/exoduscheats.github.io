@@ -3,18 +3,18 @@ title: Exodus Documentation
 ---
 ### English | [Chinese](/CN/)
 ---
-## [Exodus RDR2 - Getting Started](/Guide)
+## [Exodus RDR2 - Getting Started](/guide)
 Getting started with Exodus RDR2.
 
-## [Exodus RDR2 FAQ](/FAQ)
+## [Exodus RDR2 FAQ](/faq)
 Frequently asked questions about Exodus RDR2.
 
-## Exodus RDR2 [Errors](/Errors) & [Issues](/Issues)
+## Exodus RDR2 [Errors](/errors) & [Issues](/issues)
 Exodus RDR2 errors & issues and how to fix them.
-- ### [Errors](/Errors)
-- ### [Issues](/Issues)
+- ### [Errors](/errors)
+- ### [Issues](/issues)
 
-## [Exodus RDR2 Changelogs](/Changelogs)
+## [Exodus RDR2 Changelogs](/changelogs)
 Exodus RDR2 changelogs.
 
 ## [Exodus RDR2 Feature List]() [soon]
