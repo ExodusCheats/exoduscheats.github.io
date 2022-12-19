@@ -4,8 +4,8 @@ permalink: /features/full/visuals
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / Visuals
 ---
-- ### [`Line`](visuals/line) [submenu]
-- ### [`Box`](visuals/box) [submenu]
+- ### [Line](visuals/line) [submenu]
+- ### [Box](visuals/box) [submenu]
 - ### [Info](visuals/info) [submenu]
 - ### [Skeleton](visuals/skeleton) [submenu]
 - ### [Arrow](visuals/arrow) [submenu]
