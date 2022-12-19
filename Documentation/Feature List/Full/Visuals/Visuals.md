@@ -1,13 +1,13 @@
 ---
 title: Exodus RDR2 Visuals
-permalink: /Features/Full/Visuals
+permalink: /features/full/visuals
 ---
-### [Home](/) / [Feature List](/Features) / [Full](/Features/Full) / Visuals
+### [Home](/) / [Feature List](/features) / [Full](/features/full) / Visuals
 ---
-- ### [Line](Visuals/Line) [submenu]
-- ### [Box](Visuals/Box) [submenu]
-- ### [Info](Visuals/Info) [submenu]
-- ### [Skeleton](Visuals/Skeleton) [submenu]
-- ### [Arrow](Visuals/Arrow) [submenu]
-- ### [Crosshair](Visuals/Crosshair) [submenu]
-- ### [Radar](Visuals/Radar) [submenu]
+- ### [Line](visuals/line) [submenu]
+- ### [Box](visuals/box) [submenu]
+- ### [Info](visuals/info) [submenu]
+- ### [Skeleton](visuals/skeleton) [submenu]
+- ### [Arrow](visuals/arrow) [submenu]
+- ### [Crosshair](visuals/crosshair) [submenu]
+- ### [Radar](visuals/radar) [submenu]
