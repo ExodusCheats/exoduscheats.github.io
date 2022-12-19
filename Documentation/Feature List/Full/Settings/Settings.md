@@ -1,11 +1,11 @@
 ---
 title: Exodus RDR2 Settings
-permalink: /Features/Full/Settings
+permalink: /features/full/settings
 ---
-### [Home](/) / [Feature List](/Features) / [Full](/Features/Full) / Settings
+### [Home](/) / [Feature List](/features) / [Full](/features/full) / Settings
 ---
-- ### [Theme](Settings/Theme) [submenu]
-- ### [Debug Info](Settings/DebugInfo) [submenu]
+- ### [Theme](settings/theme) [submenu]
+- ### [Debug Info](settings/debug-info) [submenu]
 - ### Show Watermark
 - ### Show Nav Counter
 - ### Show Nav Indictor
