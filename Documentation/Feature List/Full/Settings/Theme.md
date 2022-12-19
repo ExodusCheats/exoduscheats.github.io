@@ -1,8 +1,8 @@
 ---
 title: Exodus RDR2 Settings
-permalink: /Features/Full/Settings/Theme
+permalink: /features/full/settings/theme
 ---
-### [Home](/) / [Feature List](/Features) / [Full](/Features/Full) / [Settings](/Features/Full/Settings) / Theme
+### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Settings](/features/full/settings) / Theme
 ---
 - ### Load Theme
 - ### Save Theme
