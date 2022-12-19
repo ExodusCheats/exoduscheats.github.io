@@ -1,6 +1,6 @@
 ---
 title: Exodus RDR2 Errors
-permalink: /Errors
+permalink: /errors
 ---
 ### [Home](/) / Errors
 ---
@@ -80,7 +80,7 @@ This error is caused by the following:
 1. Your `Credentials.json` contains incorrect information.
 > [How to correctly input your Credentials.](#invalid-fields)
 2. You didn't redeem your license.
-> [How and where to redeem your license.](FAQ.md#how-and-where-do-i-redeem-my-license)
+> [How and where to redeem your license.](/faq#how-and-where-do-i-redeem-my-license)
 
 ## Unauthorized (Valid Credentials)
 Restart your system.
@@ -103,7 +103,7 @@ This error is caused by the following:
 1. Your `Credentials.json` file contains incorrect information.
 > [How to correctly input your Credentials.](#invalid-fields)
 2. You don't have an active license attached to your account. 
-> [How and where to redeem your License.](FAQ.md#how-and-where-do-i-redeem-my-license)
+> [How and where to redeem your License.](/faq#how-and-where-do-i-redeem-my-license)
 
 ## Malformed Response
 This Error occurs when the hosting provider for Exodus has outages or problems. There's nothing we or you can do about it.
