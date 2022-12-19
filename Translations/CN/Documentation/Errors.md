@@ -1,9 +1,9 @@
 ---
 title: Exodus RDR2的错误
-permalink: /CN/Errors
+permalink: /cn/errors
 layout: cn
 ---
-### [首页](/CN) / 错误
+### [首页](/cn) / 错误
 ---
 Exodus RDR2的错误以及如何修复它们
 - [Bad Client HWID](#bad-client-hwid)
@@ -79,7 +79,7 @@ Exodus服务器关闭了，需要耐心等待重启
 1. 你的`Credentials.json`包含不正确的信息
 > [如何正确输入文件内你的邮箱及密码](#invalid-fields)
 2. 你没有激活你购买的钥匙
-> [如何以及在哪里激活购买的钥匙](FAQ.md#how-and-where-do-i-redeem-my-license)
+> [如何以及在哪里激活购买的钥匙](/cn/faq#我如何以及在激活我的钥匙)
 
 ## Unauthorized (Valid Credentials)
 重装您的Windows系统
@@ -102,7 +102,7 @@ Exodus服务器关闭了，需要耐心等待重启
 1. 你的`Credentials.json`文件包含不正确的信息
 > [如何正确输入你的邮箱及密码](#invalid-fields)
 2. 你的账户没有连接一个有效的激活
-> [如何以及在哪里激活购买的钥匙](FAQ.md#how-and-where-do-i-redeem-my-license)
+> [如何以及在哪里激活购买的钥匙](/cn/faq#我如何以及在激活我的钥匙)
 
 ## Malformed Response
 当Exodus的主机供应商出现故障或问题时就会出现这个错误。我们和你对此都无能为力
