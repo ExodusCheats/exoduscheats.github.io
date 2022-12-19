@@ -1,7 +1,7 @@
 ---
 title: Exodus Documentation
 ---
-### English | [Chinese](/CN/)
+### English | [Chinese](/cn)
 ---
 ## [Exodus RDR2 - Getting Started](/guide)
 Getting started with Exodus RDR2.
