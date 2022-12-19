@@ -1,27 +1,27 @@
 ---
 title: Exodus RDR2 Lite Feature List
-permalink: /Features/Lite
+permalink: /features/lite
 ---
-### [Home](/) / [Feature List](/Features) / Lite
+### [Home](/) / [Feature List](/features) / Lite
 ---
-[Player](Lite/Player)
+[Player](lite/player)
 
-[Network](Lite/Network)
+[Network](lite/network)
 
-[Recovery](Lite/Recovery)
+[Recovery](lite/recovery)
 
-[Weapons](Lite/Weapons)
+[Weapons](lite/weapons)
 
-[Teleport](Lite/Teleport) 
+[Teleport](lite/teleport) 
 
-[Spawner](Lite/Spawner)
+[Spawner](lite/spawner)
 
-[Creator](Lite/Creator)
+[Creator](lite/creator)
 
-[World](Lite/World)
+[World](lite/world)
 
-[Misc](Lite/Misc)
+[Misc](lite/misc)
 
-[Visuals](Lite/Visuals)
+[Visuals](lite/visuals)
 
-[Settings](Lite/Settings)
+[Settings](lite/settings)
