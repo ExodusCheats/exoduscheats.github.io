@@ -4,7 +4,7 @@ permalink: /features/full
 ---
 ### [Home](/) / [Feature List](/features) / Full
 ---
-[Player](ffll/player)
+[Player](full/player)
 
 [Network](full/petwork)
 
