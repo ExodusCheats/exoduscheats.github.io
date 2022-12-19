@@ -1,6 +1,6 @@
 ---
 title: Exodus RDR2常见问题
-permalink: /CN/FAQ
+permalink: /cn/faq
 layout: cn
 ---
 ### [首页](/CN) / 常见问题
