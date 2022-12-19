@@ -1,6 +1,6 @@
 ---
 title: Exodus RDR2 FAQ
-permalink: /FAQ
+permalink: /faq
 ---
 ### [Home](/) / FAQ
 ---
