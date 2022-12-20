@@ -6,7 +6,7 @@ permalink: /features/full
 ---
 [Player](full/player)
 
-[Network](full/petwork)
+[Network](full/network)
 
 [Recovery](full/recovery)
 
