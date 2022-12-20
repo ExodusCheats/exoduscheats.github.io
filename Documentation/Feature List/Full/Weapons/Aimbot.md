@@ -12,5 +12,5 @@ permalink: /features/full/weapons/aimbot
 - ### `Filter` | `Players Only` / `Peds Only` / `Animals Only` / `No Filter`
 - ### `Distance`
 - ### `Field of View`
-- ### `Show Field of View
+- ### `Show Field of View`
 - ### `Dampening`
