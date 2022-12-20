@@ -4,5 +4,5 @@ permalink: /features/full/network/players/session
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Network](/features/full/network) / [Players](/features/full/network/players) / Session
 ---
-- ### [Trolling](network/players/session/trolling) [submenu]
-- ### [Friendly](network/players/session/friendly) [submenu]
+- ### [Trolling](session/trolling) [submenu]
+- ### [Friendly](session/friendly) [submenu]
