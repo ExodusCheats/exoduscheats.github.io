@@ -32,7 +32,7 @@ permalink: /guide
 4. Download Exodus RDR2 from [your Exodus library](https://exodusmenu.com/account/library).
 ![Exodus Library](../assets/img/Exodus_Library.png)
 5. Extract Xenos from `Xenos_2.3.2.7z` using a free file archiver like [7-Zip](https://www.7-zip.org/download.html) or [WinRAR](https://www.rarlab.com/download.htm).
-6. Add an exclusion for the Xenos folder/Xenos64.exe and the Exodus DLL to [Windows Security](https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26) or other Anti-Virus software.
+6. Add an exclusion for the Xenos folder/Xenos64.exe and the Exodus DLL to [Windows Security](https://support.microsoft.com/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26) or other Anti-Virus software.
     1. In `Windows Security`, scroll down till you see `Exclusions` and click on `Add or remove exclusions`.
     ![Windows Security](../assets/img/Windows_Security_5.png)
     2. Click on `Add an exclusion`.
