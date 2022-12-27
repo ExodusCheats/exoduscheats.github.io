@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Clear Tasks
+title: Exodus RDR2 Network Events
 permalink: /features/full/network/protection/network-events/clear-tasks
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Network](/features/full/network) / [Protection](/features/full/network/protection) / [Network Events](/features/full/network/protection/network-events) / Clear Tasks
