@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Weapons
+title: Exodus RDR2 Aimbot
 permalink: /features/full/weapons/aimbot
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Weapons](/features/full/weapons) / Aimbot
