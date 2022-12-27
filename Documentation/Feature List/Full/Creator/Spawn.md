@@ -6,7 +6,7 @@ permalink: /features/full/creator/spawn
 ---
 - ### `Category` | `Ped` / `Vehicle` / `Object` / `Composites`
   - ### `Ped` | `Animals` / `Human`   
-    - ### `Animals` | `Legendary` / `Arabian Horses` / `American Horses` / `Andalusian Horses` / `Appaloosa Horses` / `Ardennes Horses` / `Belgian Horses` / `Dutch Warmblood Horses` / `Misc Horses` / `Story Horses` / `Hungarian Halfbred Horses` / `Kentucky Saddle Horses` / `Missouri Fox Trotter Horses` / `Morgan Horses` / `Murfree Brood Mange Horses` / `Mustang Horses` / `Nokota Horses` / `Shire Horses` / `Tennessee Walker Horses` / `Throughbred Horses` / `Turkoman Horses` / `Birds` / `Wolves` / `Misc`
+    - ### `Animals` <details>`Legendary` / `Arabian Horses` / `American Horses` / `Andalusian Horses` / `Appaloosa Horses` / `Ardennes Horses` / `Belgian Horses` / `Dutch Warmblood Horses` / `Misc Horses` / `Story Horses` / `Hungarian Halfbred Horses` / `Kentucky Saddle Horses` / `Missouri Fox Trotter Horses` / `Morgan Horses` / `Murfree Brood Mange Horses` / `Mustang Horses` / `Nokota Horses` / `Shire Horses` / `Tennessee Walker Horses` / `Throughbred Horses` / `Turkoman Horses` / `Birds` / `Wolves` / `Misc`</details>
     - ### `Human` | `Male` / `Female` / `Favorites`
   - ### `Vehicle` | `Wagons` / `Trains` / `Boats` / `Weapons` / `Aerial`
     - ### `Wagons` | `Stage Coach` / `Buggy` / `Police` / `Misc`
