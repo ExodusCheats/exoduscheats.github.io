@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Explosion
+title: Exodus RDR2 Horse
 permalink: /features/full/network/players/example-player/trolling/horse
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Network](/features/full/network) / [Players](/features/full/network/players) / [Example Player](/features/full/network/players/example-player) / [Trolling](/features/full/network/players/example-player/trolling) / Horse
