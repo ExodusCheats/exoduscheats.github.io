@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Full Feature List
+title: Exodus RDR2 Feature List
 permalink: /features/full
 ---
 ### [Home](/) / [Feature List](/features) / Full
