@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Lite Clear Ragdoll
+title: Exodus RDR2 Lite Ragdoll
 permalink: /features/lite/network/protection/network-events/ragdoll
 ---
 ### [Home](/) / [Feature List](/features) / [Lite](/features/lite) / [Network](/features/lite/network) / [Protection](/features/lite/network/protection) / [Network Events](/features/lite/network/protection/network-events) / Ragdoll
