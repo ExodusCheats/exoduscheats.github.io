@@ -6,7 +6,7 @@ permalink: /features/full/network/spoofing/name
 ---
 - ### `Input` *(Input your new spoofed name here)*
 - ### `Spoof` *(Apply spoofed name)*
-- ### `IP Mocking` *(You name will be spoofed to the client's IP on their end, this toggle overrides 'Input')*
-- ### `Name Mocking` *(You name will be spoofed to the client's name on their end, this toggle overrides 'Input' & 'IP Mocking')*
-- ### `Randomize` *(You name will be randomized for every client, this toggle overrides 'Input' & 'IP Mocking')*
+- ### `IP Mocking` *(Your name will be spoofed to the client's IP on their end, this toggle overrides 'Input')*
+- ### `Name Mocking` *(Your name will be spoofed to the client's name on their end, this toggle overrides 'Input' & 'IP Mocking')*
+- ### `Randomize` *(Your name will be randomized for every client, this toggle overrides 'Input' & 'IP Mocking')*
 - ### `Reset`
