@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Visuals
+title: Exodus RDR2 Line
 permalink: /features/full/visuals/line
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Visuals](/features/full/visuals) / Line
