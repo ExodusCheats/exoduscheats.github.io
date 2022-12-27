@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 World
+title: Exodus RDR2 Veh Pool
 permalink: /features/full/world/entity-pools/veh-pool
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [World](/features/full/world) / [Entity Pools](/features/full/world/entity-pools) / Veh Pool
