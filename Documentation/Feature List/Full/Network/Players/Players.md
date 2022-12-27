@@ -6,4 +6,4 @@ permalink: /features/full/network/players
 ---
 - ### [Session](players/session) [submenu] *(Features in 'Session' will overide features enabled on an individual player)*
 ### --- Players ---
-- ### [Example Player](players/player) [submenu]
+- ### [Example Player](players/example-player) [submenu]
