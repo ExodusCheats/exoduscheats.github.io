@@ -6,7 +6,7 @@ permalink: /features/full/world/entity-pools/ped-pool
 ---
 - ### `Snap Lines`
 - ### `Gravity`
-- ### `Trace Weapon Combat` (Only works with humans)
+- ### `Trace Weapon Combat` *(Only works with humans)*
 - ### `Teleport to Me`
 - ### `Delete`
 - ### `Actions` | `Scream` / `Jump` / `Come` / `Pause` / `Hands Up` / `Cower`
