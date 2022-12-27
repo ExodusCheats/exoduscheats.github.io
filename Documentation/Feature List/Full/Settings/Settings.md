@@ -13,8 +13,8 @@ permalink: /features/full/settings
 - ### `Show Splash Next Boot`
 - ### `Surpress All Toasts`
 - ### `Suppress Hotkey Toasts`
-- ### `Breadcrumb Title` (When enabled, the title will instead show the breadcrumb)
-- ### `Streamer Mode` (When enabled, sensitive information will be hidden)
+- ### `Breadcrumb Title` (*When enabled, the title will instead show the breadcrumb*)
+- ### `Streamer Mode` (*When enabled, sensitive information will be hidden*)
 - ### `Max Viewport Options`
 - ### `Discord Presence`
 - ### `Export Localization`
