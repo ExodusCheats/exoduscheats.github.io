@@ -10,5 +10,5 @@ permalink: /features/full/teleport
 - ### `Objective`
 - ### `Madam Nazar`
 ### --- Preset ---
-- ### `General` | `Annesburg` / `Armadillo` / `Blackwater` / `Colter` / `Emerald Station` / `Lagras` / `Macfarlane's Ranch` / `Manzanita Post` / `Rhodes` / `St. Denis` / `Strawberry` / `Tumbleweed` / `Van Horn` / `Valentine` / `Wapiti`
-- ### `Popular` | `Gun Shop` / `Clothing Shop` / `Fence` / `Post Office` / `Sisika Penitentiary` / `Van Horn Lighthouse` / `Annesburg Mines` / `Braithwaite Manor` / `Guarma` / `Torture Room` / `Industrial Mine` / `Bacchus Bridge` / `Abandoned Village` / `Abandoned Shack` / `San Luis Overlook`
+- ### `General` <details>`Annesburg` / `Armadillo` / `Blackwater` / `Colter` / `Emerald Station` / `Lagras` / `Macfarlane's Ranch` / `Manzanita Post` / `Rhodes` / `St. Denis` / `Strawberry` / `Tumbleweed` / `Van Horn` / `Valentine` / `Wapiti`</details>
+- ### `Popular` <details>`Gun Shop` / `Clothing Shop` / `Fence` / `Post Office` / `Sisika Penitentiary` / `Van Horn Lighthouse` / `Annesburg Mines` / `Braithwaite Manor` / `Guarma` / `Torture Room` / `Industrial Mine` / `Bacchus Bridge` / `Abandoned Village` / `Abandoned Shack` / `San Luis Overlook`</details>
