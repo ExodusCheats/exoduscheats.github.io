@@ -2,7 +2,7 @@
 title: Exodus RDR2 Lite Debug Info
 permalink: /features/lite/settings/debug-info
 ---
-### [Home](/) / [Feature List](/features) / [Lite](/features/lite) / [Settings](/features/full/settings) / Debug Info
+### [Home](/) / [Feature List](/features) / [Lite](/features/lite) / [Settings](/features/lite/settings) / Debug Info
 ---
 - ### `Local Time`
 - ### `Local Date`
