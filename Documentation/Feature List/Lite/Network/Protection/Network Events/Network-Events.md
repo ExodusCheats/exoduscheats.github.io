@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Network Lite Events
+title: Exodus RDR2 Lite Network Events
 permalink: /features/lite/network/protection/network-events
 ---
 ### [Home](/) / [Feature List](/features) / [Lite](/features/lite) / [Network](/features/lite/network) / [Protection](/features/lite/network/protection) / Network Events
