@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Network Events
+title: Exodus RDR2 Explosion
 permalink: /features/full/network/protection/network-events/explosion
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Network](/features/full/network) / [Protection](/features/full/network/protection) / [Network Events](/features/full/network/protection/network-events) / Explosion
