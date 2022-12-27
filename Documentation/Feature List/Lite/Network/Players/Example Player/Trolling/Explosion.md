@@ -1,0 +1,44 @@
+---
+title: Exodus RDR2 Lite Explosion
+permalink: /features/lite/network/players/example-player/trolling/explosion
+---
+### [Home](/) / [Feature List](/features) / [Lite](/features/lite) / [Network](/features/lite/network) / [Players](/features/lite/network/players) / [Example Player](/features/lite/network/players/example-player) / [Trolling](/features/lite/network/players/example-player/trolling) / Explosion
+---
+- ### [Looped](explosion/looped) [submenu]
+### --- Fire and Forget ---
+- ### `Grenade`
+- ### `Sticky Bomb`
+- ### `Molotov`
+- ### `Molotov Volatile`
+- ### `Hi Octane` 
+- ### `Car` 
+- ### `Plane` 
+- ### `Petrol Pump` 
+- ### `Steam` 
+- ### `Flame` 
+- ### `Water Hydrant` 
+- ### `Boat` 
+- ### `Bullet` 
+- ### `Smoke Grenade` 
+- ### `BZ Gas` 
+- ### `Gas Canister` 
+- ### `Extinguisher` 
+- ### `Train` 
+- ### `Flame Explode` 
+- ### `Vehicle Bullet` 
+- ### `Bird Crap` 
+- ### `Firework` 
+- ### `Torpedo` 
+- ### `Torpedo Unwater` 
+- ### `Lantern` 
+- ### `Dynamite` 
+- ### `Dynamite Stack` 
+- ### `Dynamite Volatile` 
+- ### `River Blast` 
+- ### `Placed Dynamite` 
+- ### `Fire Arrow` 
+- ### `Dynamite Arrow` 
+- ### `Phosphorous Bullet` 
+- ### `Lighting Strike` 
+- ### `Tracking Arrow` 
+- ### `Poison Bottle`
