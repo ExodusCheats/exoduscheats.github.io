@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Settings
+title: Exodus RDR2 Debug Info
 permalink: /features/full/settings/debug-info
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Settings](/features/full/settings) / Debug Info
