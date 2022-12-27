@@ -7,4 +7,6 @@ permalink: /features/full/spawner/spawn-manager
 - ### `Category` | `Ped` / `Vehicle` / `Object`
 - ### [Manage All](spawn-manager/manage-all) [submenu]
 ### --- Entity Cache ---
-- ### [Example Entity](spawn-manager/example-entity) [submenu]
+- ### [Example Ped](spawn-manager/example-ped) [submenu]
+- ### [Example Vehicle](spawn-manager/example-vehicle) [submenu]
+- ### [Example Object](spawn-manager/example-object) [submenu]
