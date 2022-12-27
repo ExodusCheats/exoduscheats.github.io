@@ -1,8 +1,8 @@
 ---
 title: Exodus RDR2 Protection
-permalink: /features/full/network/protections
+permalink: /features/full/network/protection
 ---
-### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Network](/features/full/network) / Players
+### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Network](/features/full/network) / Protection
 ---
 - ### [Network Events](protection/network-events) [submenu] *(View a list of network events to protect from)*
 - ### [Script Events](protection/script-events) [submenu] *(View a list of script events to protect from)*
