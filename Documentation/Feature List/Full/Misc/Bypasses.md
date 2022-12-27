@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Misc
+title: Exodus RDR2 Bypasses
 permalink: /features/full/misc/bypasses
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Misc](/features/full/misc) / Bypasses
