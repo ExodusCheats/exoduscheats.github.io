@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Misc
+title: Exodus RDR2 Pets
 permalink: /features/full/misc/pets
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Misc](/features/full/misc) / Pets
