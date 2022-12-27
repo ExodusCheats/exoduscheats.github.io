@@ -13,3 +13,8 @@ permalink: /features/full/recovery
 - ### `Add Weapons` (Unlocks and gives (some) weapons permanently)
 - ### `Add Gold`
 ![That's a lot of gold!](../../../assets/img/Gold.png)
+
+<details>
+  <summary>Lorem ipsum</summary>
+  <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+</details>
