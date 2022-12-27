@@ -8,7 +8,7 @@ permalink: /features/full/weapons/aimbot
 - ### `Triggerbot`
 ### --- Settings ---
 - ### `Hipfire`
-- ### `Bone` | `Head` / `Neck` / `Chest` / `Pelvis` / `Private` / `Left Hand` / `Right Hand` / `Left Foot` / `Left Foot`
+- ### `Bone` | `Head` / `Neck` / `Chest` / `Pelvis` / `Private` / `Left Hand` / `Right Hand` / `Left Foot` / `Right Foot`
 - ### `Filter` | `Players Only` / `Peds Only` / `Animals Only` / `No Filter`
 - ### `Distance`
 - ### `Field of View`
