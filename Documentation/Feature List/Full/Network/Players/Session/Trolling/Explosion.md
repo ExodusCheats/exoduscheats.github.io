@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Network
+title: Exodus RDR2 Explosion
 permalink: /features/full/network/players/session/trolling/explosion
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Network](/features/full/network) / [Players](/features/full/network/players) / [Session](/features/full/network/players/session) / [Trolling](/features/full/network/players/session/trolling) / Explosion
