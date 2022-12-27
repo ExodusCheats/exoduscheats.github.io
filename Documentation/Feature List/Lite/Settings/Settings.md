@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Settings
+title: Exodus RDR2 Lite Settings
 permalink: /features/lite/settings
 ---
 ### [Home](/) / [Feature List](/features) / [Lite](/features/lite) / Settings
