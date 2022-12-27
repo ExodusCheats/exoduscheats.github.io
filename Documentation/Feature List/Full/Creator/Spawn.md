@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Creator
+title: Exodus RDR2 Spawn
 permalink: /features/full/creator/spawn
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Creator](/features/full/creator) / Spawn
