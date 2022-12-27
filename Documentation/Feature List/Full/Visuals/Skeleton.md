@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Visuals
+title: Exodus RDR2 Skeleton
 permalink: /features/full/visuals/skeleton
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Visuals](/features/full/visuals) / Skeleton
