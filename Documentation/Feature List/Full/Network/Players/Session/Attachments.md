@@ -16,6 +16,6 @@ permalink: /features/full/network/players/session/trolling/attachments
     - ### `Aerial` | `Hot Air`
   - ### `Objects` | `Favorites` / `Flags` / `Skulls` / `Misc`
   - ### `Composites`
-- ### `Target Bone` `Head` / `Neck` / `Pelvis` / `Left Elbow` / `Right Elbow` / `Left Hand` / `Right Hand` / `Left Knee` / `Right Knee` / `Left Foot` / `Right Foot`
+- ### `Target Bone` <details>`Head` / `Neck` / `Pelvis` / `Left Elbow` / `Right Elbow` / `Left Hand` / `Right Hand` / `Left Knee` / `Right Knee` / `Left Foot` / `Right Foot`</details>
 ### --- Models ---
 *Many models.*
