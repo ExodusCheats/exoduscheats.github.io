@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 World
+title: Exodus RDR2 Sky
 permalink: /features/full/world/sky
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [World](/features/full/world) / Sky
