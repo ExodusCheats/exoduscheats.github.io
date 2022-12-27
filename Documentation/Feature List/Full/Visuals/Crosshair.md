@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Visuals
+title: Exodus RDR2 Crosshair
 permalink: /features/full/visuals/crosshair
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Visuals](/features/full/visuals) / Crosshair
