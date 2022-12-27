@@ -8,7 +8,7 @@ permalink: /features/full/network/players/session/trolling
 - ### [Horse](trolling/horse) [submenu]
 - ### [Explosion](trolling/explosion) [submenu]
 - ### [Attachments](trolling/attachments) [submenu]
-- ### [Message](trolling/message) [submenu]
+- ### [Messages](trolling/messages) [submenu]
 - ### `Freeze Movement`
 - ### `Remove from Mount`
 - ### `Screen Effect` | `Sleep` / `Night Sky` *(Force player(s) into selected screen effect)*
