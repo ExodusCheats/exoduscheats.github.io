@@ -14,7 +14,7 @@ permalink: /features/full/recovery
 - ### `Add Gold`
 ![That's a lot of gold!](../../../assets/img/Gold.png)
 
-<details>
+- <details>
   <summary>Lorem ipsum</summary>
   <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
 </details>
