@@ -4,7 +4,6 @@ permalink: /features/full/spawner/spawn-manager/example-ped
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Spawner](/features/full/spawner) / [Spawn Manager](/features/full/spawner/spawn-manager) / Example Ped
 ---
-### --- Ped ---
 - ### `Preview Lines`
 - ### `Gravity`
 - ### `Delete`
