@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Visuals
+title: Exodus RDR2 Radar
 permalink: /features/full/visuals/radar
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Visuals](/features/full/visuals) / Radar
