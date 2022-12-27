@@ -6,5 +6,5 @@ permalink: /features/full/network/protection/script-events
 ---
 - ### [Parley](script-events/parley) [submenu] *(Guard parley variants)*
 - ### [Defensive](script-events/defensive) [submenu] *(Guard defensive variants)*
-- ### [Messages](script-events/message) [submenu] *(Guard message attacks)*
+- ### [Messages](script-events/messages) [submenu] *(Guard message attacks)*
 - ### [Increase Bounty](script-events/increase-bounty) [submenu] *(Guard increase bounty attacks)*
