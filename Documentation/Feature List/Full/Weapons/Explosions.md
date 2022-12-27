@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Weapons
+title: Exodus RDR2 Explosions
 permalink: /features/full/weapons/explosions
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Weapons](/features/full/weapons) / Explosions
