@@ -2,7 +2,7 @@
 title: Exodus RDR2 Save Outfit
 permalink: /features/full/player/wardrobe/save-outfit
 ---
-### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Player](/features/full/player) / Save Outfit
+### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Player](/features/full/player) / [Wardrobe](/features/full/player/wardrobe) / Save Outfit
 ---
 - ### `Save Outfit`
 ### --- Save Configuration ---
