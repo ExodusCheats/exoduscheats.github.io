@@ -1,6 +1,6 @@
 ---
 title: Exodus RDR2 Particle
-permalink: /features/full/player/effects/Particle
+permalink: /features/full/player/effects/particle
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Player](/features/full/player) / [Effects](/features/full/player/effects) / Particle
 ---
