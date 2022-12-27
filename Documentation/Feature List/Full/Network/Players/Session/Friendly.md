@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Network
+title: Exodus RDR2 Friendly
 permalink: /features/full/network/players/session/friendly
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Network](/features/full/network) / [Players](/features/full/network/players) / [Session](/features/full/network/players/session) / Friendly
