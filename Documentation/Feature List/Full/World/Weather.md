@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 World
+title: Exodus RDR2 Weather
 permalink: /features/full/world/weather
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [World](/features/full/world) / Weather
