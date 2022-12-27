@@ -2,7 +2,7 @@
 title: Exodus RDR2 Lite Theme
 permalink: /features/lite/settings/theme
 ---
-### [Home](/) / [Feature List](/features) / [Lite](/features/lite) / [Settings](/features/full/settings) / Theme
+### [Home](/) / [Feature List](/features) / [Lite](/features/lite) / [Settings](/features/lite/settings) / Theme
 ---
 - ### `Load Theme`
 - ### `Save Theme`
