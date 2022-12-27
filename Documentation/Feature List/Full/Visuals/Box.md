@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Visuals
+title: Exodus RDR2 Box
 permalink: /features/full/visuals/box
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Visuals](/features/full/visuals) / Box
