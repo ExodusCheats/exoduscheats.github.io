@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 World
+title: Exodus RDR2 Obj Pool
 permalink: /features/full/world/entity-pools/obj-pool
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [World](/features/full/world) / [Entity Pools](/features/full/world/entity-pools) / Obj Pool
