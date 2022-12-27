@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Settings
+title: Exodus RDR2 Theme
 permalink: /features/full/settings/theme
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Settings](/features/full/settings) / Theme
