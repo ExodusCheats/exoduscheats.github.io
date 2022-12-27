@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Misc
+title: Exodus RDR2 UFO Mode
 permalink: /features/full/misc/ufo-mode
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Misc](/features/full/misc) / UFO Mode
