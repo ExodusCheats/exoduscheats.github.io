@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 World
+title: Exodus RDR2 Trains
 permalink: /features/full/world/trains
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [World](/features/full/world) / Trains
