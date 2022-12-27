@@ -1,5 +1,5 @@
 ---
-title: Exodus RDR2 Network
+title: Exodus RDR2 Blacklist
 permalink: /features/full/network/blacklist
 ---
 ### [Home](/) / [Feature List](/features) / [Full](/features/full) / [Network](/features/full/network) / Blacklist
