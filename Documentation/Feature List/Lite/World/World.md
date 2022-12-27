@@ -2,7 +2,7 @@
 title: Exodus RDR2 Lite World
 permalink: /features/lite/world
 ---
-### [Home](/) / [Feature List](/features) / [Full](/features/lite) / World
+### [Home](/) / [Feature List](/features) / [Lite](/features/lite) / World
 ---
 - ### [Time](world/time) [submenu]
 - ### [Light](world/light) [submenu]
