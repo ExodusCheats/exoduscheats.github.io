@@ -9,5 +9,5 @@ permalink: /features/full/network/protection/spoofing
 - ### `Allow Friends` *(Enabling will allow friends through spoof blocking)*
 ### --- Spoof Blocking ---
 - ### `IP` *(Enabling will block all IP spoofing clients from joining your session)*
-- ### `EID` *(Enabling will block all RID spoofing clients from joining your session)*
+- ### `RID` *(Enabling will block all RID spoofing clients from joining your session)*
 - ### `Name` *(Enabling will block all name spoofing clients from joining your session)*
