@@ -9,6 +9,29 @@ A complete list of all current Exodus RDR2 [v1.022](changelogs/1022) features.
 - [Exodus RDR2 Feature List](features/full)
 - [Exodus RDR2 Lite Feature List](features/lite)
 
+
+
+<ul class="no-bullet check-list">
+  <li>
+    ::before
+    Test 1
+  </li>
+  <li>
+    ::before
+    Test 2
+  </li>
+  <li>
+    ::before
+    Test 3
+  </li>
+  <li>
+    ::before
+    Test 4
+  </li>
+</ul>
+
+
+
 | Exodus RDR2 Lite                                  | Exodus RDR2 Full                                  |
 | ------------------------------------------------- | ------------------------------------------------- |
 | &#10003; Name Spoofing (Custom, IP Mocking, Name Mocking) | Name Spoofing (Custom, IP Mocking, Name Mocking)
