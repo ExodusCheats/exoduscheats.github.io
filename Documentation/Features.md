@@ -13,19 +13,15 @@ A complete list of all current Exodus RDR2 [v1.022](changelogs/1022) features.
 
 <ul class="no-bullet check-list">
   <li>
-    ::before
     Test 1
   </li>
   <li>
-    ::before
     Test 2
   </li>
   <li>
-    ::before
     Test 3
   </li>
   <li>
-    ::before
     Test 4
   </li>
 </ul>
