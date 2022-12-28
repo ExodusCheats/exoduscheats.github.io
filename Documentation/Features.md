@@ -24,4 +24,3 @@ A complete list of all current Exodus RDR2 [v1.022](changelogs/1022) features.
 |                                                   | Recovery (Bounty XP, Regular XP, Trader XP, Gold)
 |                                                   | Full Wardrobe Editor
 |                                                   | Off The Radar
-|                                                   | 
