@@ -3,6 +3,16 @@
 
 @import "{{ site.theme }}";
 
+.card {
+	padding: 40px;
+	margin: 10px;
+	display: block;
+	background: #fff;
+	border-radius: 6px;
+	border: 2px solid #eee;
+	transition: box-shadow .25s,border .25s;
+}
+
 .no-bullet {
 	padding: 0;
 	margin: 0;
@@ -10,7 +20,7 @@
 }
 
 .check-list li::before {
-	content: '&#10004; &#10003; ';
+	content: '✓ ✔ ';
 	color: #159957;
   	font-weight: 700;
   	padding-right: 8px;
