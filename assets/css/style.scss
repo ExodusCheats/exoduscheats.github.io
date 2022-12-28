@@ -3,6 +3,19 @@
 
 @import "{{ site.theme }}";
 
+.no-bullet {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.check-list li::before {
+	content: '✓ ';
+	color: #159957;
+  	font-weight: 700;
+  	padding-right: 8px;
+}
+
 @media (prefers-color-scheme: dark) {
 	body {
 		background-color: #202225;
