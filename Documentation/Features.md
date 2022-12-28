@@ -16,7 +16,7 @@ A complete list of all current Exodus RDR2 [v1.022](changelogs/1022) features.
 | &#10003; IP Spoofing (Custom, IP Mocking)                 | IP Spoofing (Custom, IP Mocking)
 | &#10004; Reliable Crash Protections                       | Reliable Crash Protections
 | &#10004; Model Changer                                    | Model Changer
-| &#10003; Powerful Crash                                   | Powerful Crash
+| <i class="fa-solid fa-check" color="#159957"></i> Powerful Crash                                   | Powerful Crash
 | &#10003; Creator Mode                                     | Creator Mode
 | &#10003; Pets!                                            | Pets!
 |                                                   | Customizable Protections
