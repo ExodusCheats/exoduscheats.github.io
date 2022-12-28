@@ -10,51 +10,12 @@ A complete list of all current Exodus RDR2 [v1.022](changelogs/1022) features.
 - [Exodus RDR2 Lite Feature List](features/lite)
 
 
-<section id="services" class="container row">
-  <div class="col card">
-    <h2 class="h2" style="margin-bottom: 8px">Lite</h2>
-    <img src="https://exodusmenu.com/static/app/media/image/shared/meta/apple-touch-icon.d43b0ab0387c524e.png">
-    &nbsp; <strong>Exodus RDR2</strong>
-    <div class="padd-m"></div>
-    <strong class="spaced-out">
-      $ <span class="h1">2.50 — 25.00</span>
-    </strong>
-    <div class="padd-m"></div>
-    <ul class="no-bullet check-list">
-      <li>Test 1</li>
-      <li>Test 2</li>
-      <li>Test 3</li>
-      <li>Test 4</li>
-    </ul>
-    <div class="padd-m"></div>
-    <a href="https://exoduscheats.github.io/store" class="btn stretch btn--primary">Lite Test</a>
-  </div>
-  <div class="col card">
-    <h2 class="h2" style="margin-bottom: 8px">Full</h2>
-    <img src="https://exodusmenu.com/static/app/media/image/shared/meta/apple-touch-icon.d43b0ab0387c524e.png">
-    &nbsp; <strong>Exodus RDR2</strong>
-    <div class="padd-m"></div>
-    <strong class="spaced-out">
-      $ <span class="h1">5.00 — 75.00 </span>
-    </strong>
-    <div class="padd-m"></div>
-    <ul class="no-bullet check-list">
-      <li>Test 1</li>
-      <li>Test 2</li>
-      <li>Test 3</li>
-      <li>Test 4</li>
-    </ul>
-    <div class="padd-m"></div>
-    <a href="https://exoduscheats.github.io/store" class="btn stretch btn--primary">Full Test</a>
-  </div>
-</section>
-
 | Exodus RDR2 Lite                                  | Exodus RDR2 Full                                  |
 | ------------------------------------------------- | ------------------------------------------------- |
 | &#10003; Name Spoofing (Custom, IP Mocking, Name Mocking) | Name Spoofing (Custom, IP Mocking, Name Mocking)
-| &#10004; IP Spoofing (Custom, IP Mocking)                 | IP Spoofing (Custom, IP Mocking)
-| &#10003; Reliable Crash Protections                       | Reliable Crash Protections
-| &#10003; Model Changer                                    | Model Changer
+| &#10003; IP Spoofing (Custom, IP Mocking)                 | IP Spoofing (Custom, IP Mocking)
+| &#10004; Reliable Crash Protections                       | Reliable Crash Protections
+| &#10004; Model Changer                                    | Model Changer
 | &#10003; Powerful Crash                                   | Powerful Crash
 | &#10003; Creator Mode                                     | Creator Mode
 | &#10003; Pets!                                            | Pets!
