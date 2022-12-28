@@ -8,7 +8,7 @@ A complete list of all current Exodus RDR2 [v1.022](changelogs/1022) features.
 
 - [Exodus RDR2 Feature List](features/full)
 - [Exodus RDR2 Lite Feature List](features/lite)
-- 
+
 
 <section id="services" class="container row">
   <div class="col card">
