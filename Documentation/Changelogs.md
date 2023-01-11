@@ -4,6 +4,7 @@ permalink: /changelogs
 ---
 ### [Home](/) / Changelogs
 ---
+- [v1.023](changelogs/1023)
 - [v1.022](changelogs/1022)
 - v1.021 (No Changelog)
 - v1.020 (No Changelog)
