@@ -4,7 +4,7 @@ permalink: /features
 ---
 ### [Home](/) / Feature List
 ---
-A complete list of all current Exodus RDR2 [v1.022](changelogs/1022) features.
+A complete list of all current Exodus RDR2 [v1.023](changelogs/1023) features.
 
 - [Exodus RDR2 <span style="color:#159957;">Full</span> Feature List](features/full)
 - [Exodus RDR2 <span style="color:#159957;">Lite</span> Feature List](features/lite)
